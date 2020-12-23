@@ -1,0 +1,8 @@
+#app ul{
+  list-style: none;
+}
+
+/* チェックを入れると文字に線をひく */
+#app li > span.done{
+  text-decoration: line-through;
+}
